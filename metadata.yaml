@@ -1,0 +1,30 @@
+_repo: Malaeskathe-Indian-Wife-of-the-White-Hunter_46160
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46160-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stephens, Ann S. (Ann Sophia)
+    aliases:
+    - Slick, Jonathan
+    - Stephens, Ann Sophia Winterbotham
+    birthdate: 1810
+    deathdate: 1886
+    gutenberg_agent_id: '3257'
+    url: http://www.gutenberg.org/2009/agents/3257
+description: ''
+gutenberg_issued: '2014-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46160'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Indian women -- Fiction'
+- !lcsh 'Dime novels'
+title: 'Malaeska: The Indian Wife of the White Hunter'
+url: http://www.gutenberg.org/ebooks/46160
